@@ -282,12 +282,15 @@ pytest tests/tests.py --cov=noisycoconut
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{noisycoconut2025,
-  title={NoisyCoconut: Counterfactual Consensus via Latent Space Reasoning},
-  author={Anonymous},
-  journal={Transactions on Machine Learning Research},
-  year={2025},
-  url={https://openreview.net/forum?id=5aatZPiCv8}
+@article{
+jerge2026noisycoconut,
+title={NoisyCoconut: Counterfactual Consensus via Latent Space Reasoning},
+author={Michael M. Jerge and David Evans},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=5aatZPiCv8},
+note={}
 }
 ```
 
